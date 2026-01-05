@@ -1,3 +1,0 @@
-EASY : 2
-HARD : 3
-MEDIUM : 24
